@@ -4,3 +4,6 @@
  Releases
 
 ![flutter](https://img.shields.io/github/v/release/krystallixxx/MineSense-ResourcePack-1.12.2?include_prereleases&label=MineSense&style=for-the-badge)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krystallixxx&show_icons=true&theme=dark)
+
